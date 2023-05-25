@@ -1,0 +1,42 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img {
+	width: 40px;
+
+}
+
+input[type="checkbox"]
+{
+	display: none;
+}
+
+
+
+nav {
+	position: relative;
+	background: rgba(16, 16, 16, 0.5);
+	width: 350px;
+	height: 100%;
+	position: absolute;
+	top: 50px;
+}
+}
+
+a {
+
+	display: block;
+	padding: 20px 5px;
+	color: white;
+}
+
+a:hover {
+	background: rgb(176, 224, 230);
+	color: black;
+}
+
+label {
+	position: absolute;
+}
